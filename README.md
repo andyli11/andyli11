@@ -1,20 +1,18 @@
 ## Hi there, I'm Andy 👋
 
-## 😄 About me
-- 👨‍🎓 I’m a Computer Enginnering Student at the [University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-engineering "University of Waterloo").
-- 🥰 I'm passionate about DevOps, Data Science, and Web Development.
+[![Github](https://img.shields.io/github/followers/andyli11?label=Follow&style=social)](https://github.com/andyli11)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=andyli11.andyli11)
+
+## 👦 About me
+- 🎓 I’m a Computer Enginnering student at the [University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-engineering "University of Waterloo").
+- 😍 I'm passionate about DevOps, Data Science, and Full Stack Development.
 - 🤖 In the future, I want to explore AI and ML.
-- 🧠 I'm currently learning everything 🤣
+- 👨‍💻 In my spare time, I enjoy making side projects or competing in hackathons.
 - 💭 ***2021 Goals:***
   - 🤗 Start a YouTube channel.
   - 🌎 Contribute to the Open Source Community.
-- 👀 ***In my free time, I enjoy:***
-  - 💡 Side projects
-  - 👨‍💻 Hackathons
-  - 😻 Watching anime
-  - ⚽ Playing socccer
-- 🍣 My favourite food is a tie between sushi and ramen 🍜
-- 😝 Fun fact: I can more than a thousand keep ups with a soccer ball. 
+  - ✏️ Create my own blog.
+- 😝 Fun fact: My keep ups record with a soccer ball is 2087.
 
 ## 🌐 Connect with me
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website"/>][website]
