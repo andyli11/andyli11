@@ -5,9 +5,9 @@
 
 ### 👦 About me
 - 🎓 I'm currently studying computer enginnering @uWaterloo
-- 😍 I'm passionate about DevOps, Data Science, and Full Stack Development.
+- 😍 I'm passionate about devops, data science, and anything tech.
 - 🤖 In the future, I want to explore AI and ML.
-- 👨‍💻 In my spare time, I enjoy making side projects or competing in hackathons.
+- 👨‍💻 In my spare time, I enjoy making side projects and competing in hackathons.
 - 💭 ***2021 Goals:***
   - 🌎 Contribute to the Open Source Community.
   - ✏️ Create my own blog.
