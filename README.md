@@ -10,7 +10,7 @@ I’m an avid software developer interested in AI, ML, DevOps, computer vision, 
 - 💭 ***2021 Goals:***
   - 🌎 Contribute to the Open Source Community.
   - ✏️ Create my own blog.
-- 😝 Fun fact: m keep-ups record with a soccer ball is 2087.
+- 😝 Fun fact: my keep-ups record with a soccer ball is 2087.
 
 ### 🌐 connect with me
 [<img align="left" width="16px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website"/>][website]
