@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=andyli11.andyli11)-->
 
 ### 👦 About me
-- 🎓 Currently, I'm studying computer enginnering @uWaterloo
+- 🎓 I'm currently studying computer enginnering @uWaterloo
 - 😍 I'm passionate about DevOps, Data Science, and Full Stack Development.
 - 🤖 In the future, I want to explore AI and ML.
 - 👨‍💻 In my spare time, I enjoy making side projects or competing in hackathons.
