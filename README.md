@@ -1,9 +1,9 @@
-## Hi there, I'm Andy 👋
+## Hey there, I'm Andy 👋
 
 <!--[![Github](https://img.shields.io/github/followers/andyli11?label=Follow&style=social)](https://github.com/andyli11)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=andyli11.andyli11)-->
 
-## 👦 About me
+### 👦 About me
 - 🎓 Currently, I'm studying computer enginnering @uWaterloo
 - 😍 I'm passionate about DevOps, Data Science, and Full Stack Development.
 - 🤖 In the future, I want to explore AI and ML.
@@ -12,7 +12,7 @@
   - 🌎 Contribute to the Open Source Community.
   - ✏️ Create my own blog.
 
-## 🌐 Connect with me
+### 🌐 Connect with me
 [<img align="left" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website"/>][website]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube"/>][youtube]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn"/>][linkedin]
@@ -23,7 +23,7 @@
 
 <br/>
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" alt="C++"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java"/>
