@@ -3,6 +3,8 @@
 <!--[![Github](https://img.shields.io/github/followers/andyli11?label=Follow&style=social)](https://github.com/andyli11)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=andyli11.andyli11)-->
 
+(he/him)
+
 ### 👦 About me
 - 🎓 I'm currently studying computer enginnering @uWaterloo
 - 😍 I'm passionate about devops, data science, and anything tech.
