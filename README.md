@@ -30,16 +30,10 @@
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Javascript"/>
-<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" alt="jQuery"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React.js"/>
-<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" alt="Next.js"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="Node.js"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" alt="Dart"/>
-<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" alt="Bash"/>
-<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" alt="Amazon Web Services"/>
-<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" alt="Microsoft Azure"/>
-<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="Docker"/>
 <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git"/>
 
 <br/>
