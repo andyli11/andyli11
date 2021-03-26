@@ -16,11 +16,11 @@
 
 ### 🌐 Connect with me
 [<img align="left" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website"/>][website]
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube"/>][youtube]
+<!--[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube"/>][youtube]-->
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn"/>][linkedin]
 
-[website]:https://andyli.dev/
-[youtube]:https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[website]:https://andyli11.github.io/
+<!--[youtube]:https://www.youtube.com/watch?v=dQw4w9WgXcQ-->
 [linkedin]:https://www.linkedin.com/in/andy-li-0573441b7/
 
 <br/>
