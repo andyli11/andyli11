@@ -3,7 +3,7 @@
 let andy = {
   pronouns: "he/him",
   previously: ["Watorace", "KitchenMate"],
-  langauges: ["Python", "C++", "Java", "Typescript"],
+  languages: ["Python", "C++", "Java", "Typescript"],
 }
 ```
 
