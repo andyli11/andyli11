@@ -2,7 +2,7 @@
 ```javascript
 let andy = {
   pronouns: "he/him",
-  previously: ["Watorace", "KitchenMate"],
+  previously: ["CambioML", "German Aerospace Center"],
   languages: ["Python", "C++", "Java", "Typescript"],
 }
 ```
