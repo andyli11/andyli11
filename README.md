@@ -1,6 +1,6 @@
 ### Hello World 👋 😁
 
-𝗜'𝗺 [Andy Li](https://andyli.app), a 4th year Computer Engineering student at the University of Waterloo! I'm extremely passionate about ML, robotics, and learning just about everything. Currently trying to get deep into deep learning. Keep exploring🚀
+I'm Andy, a Master's student at the University of Waterloo specializing in distributed systems for ML and agentic AI systems. Trained on curiosity and fine-tuned with good sleep.
 
 ![giphy](https://user-images.githubusercontent.com/65037987/147858938-683dfa33-40f4-4d62-a73a-f176bc157265.gif)
 
