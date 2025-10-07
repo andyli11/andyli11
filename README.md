@@ -1,6 +1,6 @@
 ### Hello World 👋 😁
 
-I'm Andy, a Master's student at the University of Waterloo specializing in distributed ML systems and agentic AI systems. Trained on curiosity and fine-tuned with good sleep.
+I'm Andy, a Master's student at the University of Waterloo specializing in distributed ML and agentic AI systems. Trained on curiosity and fine-tuned with good sleep.
 
 ![giphy](https://user-images.githubusercontent.com/65037987/147858938-683dfa33-40f4-4d62-a73a-f176bc157265.gif)
 
